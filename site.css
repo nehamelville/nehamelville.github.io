@@ -1,7 +1,14 @@
 body{
-    color: brown;
-    background-color: #6fb6ff;
+    color: rgb(236, 227, 228);
+    background-color: red;
+    font-family:cursive;
 }
 .profilepic{
     width: 100px;
+}
+.backgroundimage{
+    background-image: url(imges/Windows\ Vista\ Aurora\ Cryo\ by\ V\ E\ G\ A.jpg);
+    background-repeat:no-repeat ;
+    background-size: cover;
+    
 }
